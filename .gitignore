@@ -1,1 +1,10 @@
-/vendor/
+vendor
+pdfwatermarker-test.php
+test-output.pdf
+output
+phpdocs
+phpdocsmarkdown
+manual
+composer.lock
+assets/test-output.pdf
+assets/test-output-multiple.pdf
